@@ -18,8 +18,8 @@
   
   <entry>
     <title>我爱篮球</title>
-    <link href="http://example.com/2020/11/25/%E5%85%B3%E4%BA%8E%E6%88%91%E7%9A%84%E7%88%B1%E5%A5%BD/"/>
-    <id>http://example.com/2020/11/25/%E5%85%B3%E4%BA%8E%E6%88%91%E7%9A%84%E7%88%B1%E5%A5%BD/</id>
+    <link href="http://example.com/article/9a62b2dd.html"/>
+    <id>http://example.com/article/9a62b2dd.html</id>
     <published>2020-11-25T09:48:10.061Z</published>
     <updated>2020-11-25T09:55:38.057Z</updated>
     
@@ -43,8 +43,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2020/11/25/hello-world/"/>
-    <id>http://example.com/2020/11/25/hello-world/</id>
+    <link href="http://example.com/article/4a17b156.html"/>
+    <id>http://example.com/article/4a17b156.html</id>
     <published>2020-11-25T05:29:38.871Z</published>
     <updated>2020-11-25T05:29:38.871Z</updated>
     

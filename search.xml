@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>我爱篮球</title>
+    <url>/article/9a62b2dd.html</url>
+    <content><![CDATA[<p>我爱篮球</p>
+]]></content>
+      <categories>
+        <category>篮球</category>
+      </categories>
+      <tags>
+        <tag>篮球</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
-    <url>/2020/11/25/hello-world/</url>
+    <url>/article/4a17b156.html</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
 
@@ -17,17 +29,5 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>我爱篮球</title>
-    <url>/2020/11/25/%E5%85%B3%E4%BA%8E%E6%88%91%E7%9A%84%E7%88%B1%E5%A5%BD/</url>
-    <content><![CDATA[<p>我爱篮球</p>
-]]></content>
-      <categories>
-        <category>篮球</category>
-      </categories>
-      <tags>
-        <tag>篮球</tag>
-      </tags>
   </entry>
 </search>
